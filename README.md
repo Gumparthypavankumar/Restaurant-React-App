@@ -15,5 +15,7 @@
  3.go to restaurant folder run command npm install
 
  4.once you install all the dependencies change the base url constant  in the restaurant/src/action/types to the url at which the json-server is running
+ 
+  Ex:BASE_URL = "http//localhost:5000/" to BASE_URL = "http://localhost:portnumberatwhichjson-serverisrunning/"
 
  5.After permorming all the steps execute command npm start in the restaurant directory.
