@@ -1,7 +1,7 @@
 # Restaurant-React-app
 
 # json-server folder:
-  This application used the json-server fake rest api.
+  This application uses the json-server fake rest api.
 
 # restaurant
  The restaurant is the core module for frontend(react)
