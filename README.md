@@ -6,7 +6,7 @@
 # restaurant
  The restaurant is the core module for frontend(react)
 
-# To run the application follow this commands :
+# To run the application follow this steps :
 
  1. npm install -g json-server
 
